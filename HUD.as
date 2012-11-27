@@ -1,0 +1,1 @@
+﻿package  {	import flash.display.MovieClip;		public class HUD extends MovieClip	{		public function HUD() 		{			// constructor code			x = 20;			y = 20;		}				public function setHealth(val:Number):void		{			healthValue.text = String(val);		}				public function setSandwich(val:Number):void		{			sandwichField.text = String(val);		}	}	}

@@ -1,0 +1,33 @@
+<projectDescription>
+  <id>1332455307913</id>
+  <name>game</name>
+  <asVersion>0</asVersion>
+  <boundTemplate>file:///Macintosh HD/Users/decnorton/Library/Application Support/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/boundClass_as3.as</boundTemplate>
+  <classTemplate>file:///Macintosh HD/Users/decnorton/Library/Application Support/Adobe/Flash CS5/en_US/Configuration/ActionScript 3.0/Templates/standardClass_as3.as</classTemplate>
+  <classPath>.</classPath>
+  <defaultApp/>
+  <rootURI>file:///Macintosh HD/Users/decnorton/Dropbox/Flash/game/</rootURI>
+  <flexSDK/>
+  <sources editable="false"/>
+  <libraries editable="false"/>
+  <externalLibraries editable="false"/>
+  <compileList editable="false"/>
+  <recentFiles editable="false">
+    <uri label="Enemy.as">file:///Macintosh HD/Users/decnorton/Dropbox/Flash/game/Enemy.as</uri>
+    <uri label="Player.as">file:///Macintosh HD/Users/decnorton/Dropbox/Flash/game/Player.as</uri>
+    <uri label="Sandwich.as">file:///Macintosh HD/Users/decnorton/Dropbox/Flash/game/Sandwich.as</uri>
+    <uri label="GameOver.as">file:///Macintosh HD/Users/decnorton/Dropbox/Flash/game/GameOver.as</uri>
+    <uri label="Walker.as">file:///Macintosh HD/Users/decnorton/Dropbox/Flash/game/Walker.as</uri>
+    <uri label="Level.as">file:///Macintosh HD/Users/decnorton/Dropbox/Flash/game/Level.as</uri>
+    <uri label="Shooter.as">file:///Macintosh HD/Users/decnorton/Dropbox/Flash/game/Shooter.as</uri>
+    <uri label="Main.as">file:///Macintosh HD/Users/decnorton/Dropbox/Flash/game/Main.as</uri>
+    <uri label="platform.fla">file:///Macintosh HD/Users/decnorton/Dropbox/Flash/game/platform.fla</uri>
+    <uri label="HUD.as">file:///Macintosh HD/Users/decnorton/Dropbox/Flash/game/HUD.as</uri>
+    <uri label="Item.as">file:///Macintosh HD/Users/decnorton/Dropbox/Flash/game/Item.as</uri>
+    <uri label="Apple.as">file:///Macintosh HD/Users/decnorton/Dropbox/Flash/game/Apple.as</uri>
+    <uri label="EnemyBullet.as">file:///Macintosh HD/Users/decnorton/Dropbox/Flash/game/EnemyBullet.as</uri>
+    <uri label="Bullet.as">file:///Macintosh HD/Users/decnorton/Dropbox/Flash/game/Bullet.as</uri>
+    <uri label="Splash.as">file:///Macintosh HD/Users/decnorton/Dropbox/Flash/game/Splash.as</uri>
+  </recentFiles>
+  <locations editable="false"/>
+</projectDescription>
